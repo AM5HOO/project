@@ -1,0 +1,19 @@
+    html,
+    body {
+    width: 100%;
+    font-size: 16px;
+    color: #e7e7e7; 
+    background-color: #000;
+    }
+
+    main {
+    height: 100vh;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+    h1 {
+    font-size: 300%;
+    }
